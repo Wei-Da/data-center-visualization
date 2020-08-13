@@ -1,0 +1,212 @@
+{
+  "response": [
+    {
+      "id": 0,
+      "name": "原油管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    }, 
+    {
+      "id": 1,
+      "name": "成品油管道",
+      "fiveMinutes": {
+        "important": [11, 53, 16, 97, 83],
+        "emergency": [68, 94, 22, 33, 89]
+      },
+      "oneHours": {
+        "important": [100, 26, 36, 10, 60],
+        "emergency": [21, 74, 4, 19, 85]
+      },
+      "twentyFourHours": {
+        "important": [38, 21, 15, 43, 31],
+        "emergency": [71, 85, 32, 80, 51]
+      }
+    },
+    {
+      "id": 2,
+      "name": "天然气",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 3,
+      "name": "兰郑长管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 4,
+      "name": "西二线管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 5,
+      "name": "中亚管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 6,
+      "name": "石兰惠银管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 7,
+      "name": "漠大管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 8,
+      "name": "长长吉、泰青威管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 9,
+      "name": "中贵管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 10,
+      "name": "兰城原油管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 11,
+      "name": "锦郑成品油管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    },
+    {
+      "id": 12,
+      "name": "中俄东天然气管道",
+      "fiveMinutes": {
+        "important": [70, 72, 74, 72, 74],
+        "emergency": [55, 40, 30, 36, 35]
+      },
+      "oneHours": {
+        "important": [60, 76, 88, 72, 64],
+        "emergency": [36, 48, 50, 56, 55]
+      },
+      "twentyFourHours": {
+        "important": [50, 60, 65, 70, 80],
+        "emergency": [40, 50, 55, 65, 70]
+      }
+    }
+  ]
+}
